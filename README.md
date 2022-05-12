@@ -6,3 +6,7 @@ Goals
 2.Which Religion is holding majority in which part of Goa,which can later be used for advertising or avoiding any riots
 3.Population living in rural areas vs urban areas
 4. for more look into the project
+
+## Build with
+* MS-Excel
+* Tableau
